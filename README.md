@@ -13,11 +13,7 @@
 
 ## Pet-project:
 
-<svg width="200" height="100">
-  <rect width="200" height="100" style="fill:black" />
-  <text x="50%" y="50%" font-family="Montserrat" font-size="20" fill="yellow" text-anchor="middle">Ваш текст здесь</text>
-</svg>
-
+<div style="width: 200px; height: 100px; background-color: black; color: yellow; font-family: Montserrat, sans-serif; font-size: 20px; text-align: center; line-height: 100px;">Ваш текст здесь</div>
 
 
 
