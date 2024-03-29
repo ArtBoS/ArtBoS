@@ -13,7 +13,7 @@
 
 ## Pet-project:
 
-![Чёрный прямоугольник с текстом](https://via.placeholder.com/300x100/000000/FFFF00?text=В_разработке)
+![Чёрный](https://via.placeholder.com/300x100/000000/FFFF00?text=InDevelopment)
 
 
 ## Учебные проекты:
