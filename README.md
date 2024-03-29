@@ -13,7 +13,11 @@
 
 ## Pet-project:
 
-![Чёрный квадрат](https://via.placeholder.com/150/000000/FFFF00?text=В_разработке)
+<svg width="200" height="100">
+  <rect width="200" height="100" style="fill:black" />
+  <text x="50%" y="50%" font-family="Montserrat" font-size="20" fill="yellow" text-anchor="middle">Ваш текст здесь</text>
+</svg>
+
 
 
 
