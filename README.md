@@ -13,8 +13,7 @@
 
 ## Pet-project:
 
-<div style="width: 200px; height: 100px; background-color: black; color: yellow; font-family: Montserrat, sans-serif; font-size: 20px; text-align: center; line-height: 100px;">Ваш текст здесь</div>
-
+![Чёрный прямоугольник с текстом](https://via.placeholder.com/300x100/000000/FFFF00?text=В_разработке)
 
 
 ## Учебные проекты:
