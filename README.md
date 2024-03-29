@@ -13,9 +13,12 @@
 
 ## Pet-project:
 
+<div style="background-color:black; padding:10px;">
+  <p style="font-family:Montserrat, sans-serif; font-size:20px; color:yellow;">В разработке</p>
+</div>
 
 
-## [Учебные проекты](https://github.com/ArtBoS/portfolio):
+## Учебные проекты:
 
 <details close>
   <summary>Задачи регрессии</summary>
@@ -160,7 +163,3 @@
       </tr>
     </table>
 </details>
-
-<div align="left">
-  <img src="https://komarev.com/ghpvc/?username=Danspers&style=flat-square&color=blue" alt=""/>
-</div>
