@@ -13,9 +13,8 @@
 
 ## Pet-project:
 
-<div style="background-color:black; padding:10px;">
-  <p style="font-family:Montserrat, sans-serif; font-size:20px; color:yellow;">В разработке</p>
-</div>
+![Чёрный квадрат](https://via.placeholder.com/150/000000/FFFF00?text=В_разработке)
+
 
 
 ## Учебные проекты:
