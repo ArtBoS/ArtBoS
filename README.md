@@ -1,6 +1,6 @@
 <h2 align='center'>Hello World, I'm Artemiy 👋</h2>
 
-:page_facing_up: Резюме [HH.ru](https://vladivostok.hh.ru/resume/0346aab9ff0b1fdde40039ed1f497663414379) / [.pdf]([Borisov Artemiy.pdf](https://github.com/ArtBoS/ArtBoS/blob/main/Borisov%20Artemiy.pdf))
+:page_facing_up: Резюме [HH.ru](https://vladivostok.hh.ru/resume/0346aab9ff0b1fdde40039ed1f497663414379) / [.pdf](https://github.com/ArtBoS/ArtBoS/blob/main/Borisov%20Artemiy.pdf)
 
 ![Static Badge](https://img.shields.io/badge/Python-%233776AB?style=flat&logo=python&labelColor=abcdef&link=https%3A%2F%2Fwww.python.org%2F)
 ![Static Badge](https://img.shields.io/badge/pandas-abcdef?style=flat&logo=pandas&labelColor=%23150458&color=%23150458&link=https%3A%2F%2Fpandas.pydata.org%2F)
