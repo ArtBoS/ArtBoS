@@ -1,6 +1,7 @@
 <h2 align='center'>Hello World, I'm data analyst Artemiy 👋</h2>
 
 :page_facing_up: Резюме [HH.ru](https://vladivostok.hh.ru/resume/0346aab9ff0b1fdde40039ed1f497663414379) / [.pdf](https://github.com/ArtBoS/ArtBoS/blob/main/Borisov%20Artemiy.pdf)
+
 :nerd_face: Currently looking for a job
 
 ## Connect with me:
