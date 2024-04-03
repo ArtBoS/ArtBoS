@@ -4,7 +4,7 @@
 
 ## Pet-project:
 
-![Чёрный](https://via.placeholder.com/300x100/000000/FFFF00?text=InDevelopment)
+![Чёрный](https://via.placeholder.com/300x100/000000/FFFF00?text=InDev)
 
 
 ## Учебные проекты:
